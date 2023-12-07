@@ -1,0 +1,29 @@
+* {
+    border: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.canva {
+    margin: 10px auto;
+    width: 45vw;
+    height: 90vh;
+    background-color:rgb(2, 31, 93);
+}
+.headbar {
+    margin: 15px 50px;
+    height: 2rem;
+    text-align: center;
+    line-height: 2rem;
+    background-color: rgb(225, 225, 14);
+    border-radius: 15px;
+}
+
+canvas {
+    margin-top: 100px;
+}
